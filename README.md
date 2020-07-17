@@ -22,7 +22,7 @@ Age: 0
 Connection: keep-alive
 ```
 
-An example printout of an 404 bad request
+An example printout of an 404 bad request:
 
 ```
 Mottatt: HTTP/1.1 400 Bad Request
