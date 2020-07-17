@@ -4,7 +4,7 @@ A client and web-proxy-server with raw HTTP
 ### About
 This implementation lets client (C) and server (WPS) communicate by UDP, returning header info of TCP proxies of raw HTTP requests.
 
-An example run of hosthame [vg.no](www.vg.no) returns the printout:
+An example run of hosthame *vg.no* returns the printout:
 
 ```
 www.vg.no
