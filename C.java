@@ -35,5 +35,3 @@ public class C {
  klientSocket.close();
  }
 }
-
-// 181192, h152056, kjQtte, Jovaage
